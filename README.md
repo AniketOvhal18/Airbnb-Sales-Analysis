@@ -48,7 +48,7 @@ This project aims to analyze Airbnb sales data to uncover trends in pricing, ava
 
 > Below is a snapshot of the interactive dashboard created using Power BI / Tableau:
 
-![Dashboard Preview](visuals/dashboard_preview.png)
+![Dashboard Preview](https://github.com/AniketOvhal18/Airbnb-Sales-Analysis/blob/main/Screenshot%202025-04-09%20192215.png)
 
 *Make sure to open the full dashboard in Power BI or Tableau for interactive filtering and drill-down analysis.*
 ---
